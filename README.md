@@ -18,8 +18,6 @@ My name is Théophile Blard and I'm a Machine Learning Engineer. I'm french, cur
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheophileBlard&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileBlard&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheophileBlard.TheophileBlard)
-
 <!--
 **TheophileBlard/TheophileBlard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
