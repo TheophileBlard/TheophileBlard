@@ -1,5 +1,4 @@
-# Hi there ! <img src="https://raw.githubusercontent.com/TheophileBlard/TheophileBlard/main/wave.gif" width="30px">
-
+# Hi there !
 My name is Théophile Blard and I'm a Machine Learning Engineer. I'm french, currently living in Strasbourg.
 
 
