@@ -1,5 +1,5 @@
 # Hi there !
-My name is Théophile Blard and I'm a Machine Learning Engineer. I'm french, currently living in Strasbourg.
+My name is Théophile Blard and I'm a Machine Learning Engineer. I'm french, currently living in Rennes.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-theophile_blard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theophile-blard/)](https://www.linkedin.com/in/theophile-blard/)
